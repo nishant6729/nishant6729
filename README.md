@@ -193,25 +193,6 @@ Jetpack Compose • Firestore • Firebase Cloud Functions
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishant6729&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant6729&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant6729&theme=tokyonight"/>
-
-</p>
-
----
-
-
 ## 🌱 Currently Working On
 
 🔨 SkillSwap Scaling & Optimization
