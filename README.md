@@ -9,7 +9,7 @@ Building scalable mobile applications with Kotlin, Jetpack Compose, Firebase and
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Spring+Boot+Backend+Developer;Firebase+Architect;950%2B+LeetCode+Problems;IIIT+Kota+Student;Building+Production+Grade+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Android+Developer;Spring+Boot+Backend+Developer;Firebase+Architect;950%2B+LeetCode+Problems;System+Design+Expert;LangChain+%26+AI" alt="typing svg"/>
 </p>
 
 ---
@@ -46,7 +46,9 @@ Building scalable mobile applications with Kotlin, Jetpack Compose, Firebase and
 
 📊 Strong focus on scalable architectures, realtime systems, and clean code
 
-🧠 Passionate about DSA, System Design, and Product Engineering
+🧠 Passionate about DSA, System Design (HLD/LLD), OOPs, and Product Engineering
+
+🤖 Experience with LangChain, AI Integration, and RAG Systems
 
 ---
 
@@ -169,9 +171,11 @@ Jetpack Compose • Firestore • Firebase Cloud Functions
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)
+
 ---
 
-### Databases
+### Databases & Caching
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
@@ -179,9 +183,11 @@ Jetpack Compose • Firestore • Firebase Cloud Functions
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
 ---
 
-### Tools
+### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
@@ -193,11 +199,23 @@ Jetpack Compose • Firestore • Firebase Cloud Functions
 
 ---
 
+### System Design & Architecture
+
+🏗️ **HLD (High-Level Design)** - Scalable architecture, load balancing, microservices, distributed systems
+
+🎯 **LLD (Low-Level Design)** - Object-oriented design patterns, SOLID principles, system components
+
+💡 **OOPs Concepts** - Encapsulation, Inheritance, Polymorphism, Abstraction
+
+---
+
 ## 🌱 Currently Working On
 
 🔨 SkillSwap Scaling & Optimization
 
-📚 Advanced System Design
+📚 Advanced System Design (HLD & LLD)
+
+🤖 LangChain Integration & AI-powered Features
 
 ☁️ Firebase Cloud Functions
 
@@ -214,6 +232,8 @@ Jetpack Compose • Firestore • Firebase Cloud Functions
 > Build products that solve real-world problems.
 >
 > Prioritize clean architecture, scalability, maintainability, and user experience.
+>
+> Apply strong OOPs principles and system design expertise for robust, maintainable solutions.
 >
 > Measure impact through performance, reliability, and engagement metrics.
 
